@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jmscholen@gmail.com"]
 
   spec.summary       = %q{TailwindUI and Rails 6 gem.}
-  spec.description   = %q{This gem allows you to run a simple command to install Tailwindcss and the necessary components in order to use TailwindUI. This repo contains no TailwindUI components. You must purchase a license from tailwindui.com. }
+  spec.description   = %q{This gem allows you to run a simple command to install Tailwindcss and the necessary modifications in order to use TailwindUI on a Rails 6 app. This repo contains no TailwindUI components. You must purchase a license from tailwindui.com. }
   spec.homepage      = "https://github.com/jmscholen/tailwindui_rails"
   spec.license       = "MIT"
 

@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    tailwindui_rails (0.1.0)
+    tailwindui_rails (0.2.0)
       railties (>= 6.0)
 
 GEM
